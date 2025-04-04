@@ -2,7 +2,7 @@
 title: "Murphy Wu"
 image: "IMG-info.JPG"
 about:
-  template: jolla
+  template: solana
   links:
     - icon: envelope
       href: "mailto:chengyuanwu2002@gmail.com"
@@ -11,6 +11,9 @@ about:
       href: "https://www.linkedin.com/in/murphywu2024/"
       text: "LinkedIn"
 ---
+## Introduction
+
+
 
 ## Education
 
