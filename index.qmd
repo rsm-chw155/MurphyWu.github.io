@@ -1,0 +1,23 @@
+---
+title: "Murphy Wu"
+image: "IMG-info.JPG"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: "mailto:chengyuanwu2002@gmail.com"
+      text: "E-Mail"
+    - icon: linkedin
+      href: "https://www.linkedin.com/in/murphywu2024/"
+      text: "LinkedIn"
+---
+
+## Education
+
+University of California, San Diego | San Diego, CA
+
+M.S in Business Analytics | Jul 2024 - Dec 2025
+
+Shanghai University of Finance and Economics | Shanghai, CN
+
+B.A in Economics | Sept 2020 - June 2024
