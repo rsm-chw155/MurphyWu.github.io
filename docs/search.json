@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Murphy Wu",
     "section": "",
-    "text": "University of California, San Diego | San Diego, CA\nM.S in Business Analytics | Jul 2024 - Dec 2025\nShanghai University of Finance and Economics | Shanghai, CN\nB.A in Economics | Sept 2020 - June 2024"
+    "text": "Hello, I’m Murphy\nWelcome to my personal website! I’m currently studying at UC San Diego and working on cool projects in data, analytics, and business strategy.\nYou can find my resume here or connect with me on LinkedIn."
   },
   {
     "objectID": "about.html",
@@ -17,8 +17,8 @@
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Murphy Wu",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA\nM.S in Business Analytics | Jul 2024 - Dec 2025\nShanghai University of Finance and Economics | Shanghai, CN\nB.A in Economics | Sept 2020 - June 2024"
+    "section": "📑 Education",
+    "text": "📑 Education\nUniversity of California, San Diego | San Diego, CA\nM.S in Business Analytics | Jul 2024 - Dec 2025\nShanghai University of Finance and Economics | Shanghai, CN\nB.A in Economics | Sept 2020 - June 2024"
   },
   {
     "objectID": "resume.html",
@@ -26,5 +26,26 @@
     "title": "Resume",
     "section": "",
     "text": "Download PDF file."
+  },
+  {
+    "objectID": "index.html#hello-im-murphy",
+    "href": "index.html#hello-im-murphy",
+    "title": "Murphy Wu",
+    "section": "",
+    "text": "Welcome to my personal website! I’m currently studying at UC San Diego and working on cool projects in data, analytics, and business strategy.\nYou can find my resume here or connect with me on LinkedIn."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Murphy Wu",
+    "section": "📫 Contact",
+    "text": "📫 Contact\nYou can reach me via email."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Murphy Wu",
+    "section": "",
+    "text": "Hello, I’m Murphy\nWelcome to my personal website! I’m currently studying at UC San Diego and working on cool projects in data, analytics, and business strategy.\nYou can find my resume here or connect with me on LinkedIn."
   }
 ]
