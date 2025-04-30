@@ -1,5 +1,5 @@
 ---
-title: "Murphy Wu"
+title: "Murphy Wu‘s Website"
 image: "IMG-info.JPG"
 about:
   template: solana
@@ -11,27 +11,39 @@ about:
       href: "https://www.linkedin.com/in/murphywu2024/"
       text: "LinkedIn"
 ---
+
 ## 👋 Introduction
 
-Hello, I'm Murphy
+Hello, I'm Murphy Wu — welcome to my personal website!
 
-Welcome to my personal website! I'm currently studying at UC San Diego and working on cool projects in data, analytics, and business strategy.
+I'm currently a Master's student at **UC San Diego**, passionate about data, analytics, and business strategy. I'm always exploring innovative ways to turn insights into impact.
 
-You can find my resume [here](resume/resume.pdf) or connect with me on [LinkedIn](https://www.linkedin.com/in/murphywu2024/).
+Feel free to check out my [resume](resume/resume.pdf) or connect with me on [LinkedIn](https://www.linkedin.com/in/murphywu2024/). Let's connect!
 
 ---
 
-
 ## 📑 Education
 
-University of California, San Diego | San Diego, CA
+**University of California, San Diego**  
+_M.S. in Business Analytics_ | **Jul 2024 – Dec 2025**  
+San Diego, CA, USA
 
-M.S in Business Analytics | Jul 2024 - Dec 2025
+**Shanghai University of Finance and Economics**  
+_B.A. in Economics_ | **Sept 2020 – June 2024**  
+Shanghai, China
 
-Shanghai University of Finance and Economics | Shanghai, CN
+## 🛠 Skills
 
-B.A in Economics | Sept 2020 - June 2024
+**Languages:** Python, SQL, R  
+**Analytics:** Excel, Tableau   
 
 ## 📫 Contact
 
-You can reach me via [email](mailto:chengyuanwu2002@gmail.com).
+I'm always open to new opportunities, collaborations, or just a good conversation.
+
+📧 [Email me](mailto:chengyuanwu2002@gmail.com) anytime!
+
+## 🌍 Additional Info
+
+**Current Location:** San Diego, CA  
+**Languages:** English (Fluent), Mandarin (Native)

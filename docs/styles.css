@@ -1,1 +1,6 @@
 /* css styles */
+
+/* 修改顶部导航栏背景颜色 */
+.navbar, .quarto-navbar {
+    background-color: #e6f0ff !important;
+  }
